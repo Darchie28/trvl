@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "./https://darchie28.github.io/trvl/static/css/main.29c7f2f3.chunk.css",
-    "main.js": "./https://darchie28.github.io/trvl/static/js/main.cbdcae24.chunk.js",
-    "main.js.map": "./https://darchie28.github.io/trvl/static/js/main.cbdcae24.chunk.js.map",
-    "runtime-main.js": "./https://darchie28.github.io/trvl/static/js/runtime-main.f3f9de73.js",
-    "runtime-main.js.map": "./https://darchie28.github.io/trvl/static/js/runtime-main.f3f9de73.js.map",
-    "static/js/2.777c46aa.chunk.js": "./https://darchie28.github.io/trvl/static/js/2.777c46aa.chunk.js",
-    "static/js/2.777c46aa.chunk.js.map": "./https://darchie28.github.io/trvl/static/js/2.777c46aa.chunk.js.map",
-    "index.html": "./https://darchie28.github.io/trvl/index.html",
-    "precache-manifest.7a32e00c6ae2919cc48e665ddc724f24.js": "./https://darchie28.github.io/trvl/precache-manifest.7a32e00c6ae2919cc48e665ddc724f24.js",
-    "service-worker.js": "./https://darchie28.github.io/trvl/service-worker.js",
-    "static/css/main.29c7f2f3.chunk.css.map": "./https://darchie28.github.io/trvl/static/css/main.29c7f2f3.chunk.css.map",
-    "static/js/2.777c46aa.chunk.js.LICENSE.txt": "./https://darchie28.github.io/trvl/static/js/2.777c46aa.chunk.js.LICENSE.txt"
+    "main.css": "/trvl/static/css/main.29c7f2f3.chunk.css",
+    "main.js": "/trvl/static/js/main.85a936b6.chunk.js",
+    "main.js.map": "/trvl/static/js/main.85a936b6.chunk.js.map",
+    "runtime-main.js": "/trvl/static/js/runtime-main.41976432.js",
+    "runtime-main.js.map": "/trvl/static/js/runtime-main.41976432.js.map",
+    "static/js/2.777c46aa.chunk.js": "/trvl/static/js/2.777c46aa.chunk.js",
+    "static/js/2.777c46aa.chunk.js.map": "/trvl/static/js/2.777c46aa.chunk.js.map",
+    "index.html": "/trvl/index.html",
+    "precache-manifest.f9d4b03d74db7ac7b4dd69271c42d293.js": "/trvl/precache-manifest.f9d4b03d74db7ac7b4dd69271c42d293.js",
+    "service-worker.js": "/trvl/service-worker.js",
+    "static/css/main.29c7f2f3.chunk.css.map": "/trvl/static/css/main.29c7f2f3.chunk.css.map",
+    "static/js/2.777c46aa.chunk.js.LICENSE.txt": "/trvl/static/js/2.777c46aa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f3f9de73.js",
+    "static/js/runtime-main.41976432.js",
     "static/js/2.777c46aa.chunk.js",
     "static/css/main.29c7f2f3.chunk.css",
-    "static/js/main.cbdcae24.chunk.js"
+    "static/js/main.85a936b6.chunk.js"
   ]
 }
