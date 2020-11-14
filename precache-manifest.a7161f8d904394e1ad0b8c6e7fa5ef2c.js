@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "92f5c080f7d2e84a94164b374a628c7a",
+    "revision": "6ea4668ce5e97290a6dcd84bc74afc55",
     "url": "../https://darchie28.github.io/trvl/index.html"
   },
   {
-    "revision": "5433365800a9c7338ee0",
+    "revision": "38794225a57fcb2b0da1",
     "url": "../https://darchie28.github.io/trvl/static/css/main.29c7f2f3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "../https://darchie28.github.io/trvl/static/js/2.777c46aa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5433365800a9c7338ee0",
-    "url": "../https://darchie28.github.io/trvl/static/js/main.85a936b6.chunk.js"
+    "revision": "38794225a57fcb2b0da1",
+    "url": "../https://darchie28.github.io/trvl/static/js/main.9454eaca.chunk.js"
   },
   {
     "revision": "6955aa89c3be4e8baf0c",
